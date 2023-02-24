@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS EVENTS(event TEXT NOT NULL, description TEXT, date TEXT NOT NULL);
+
+SELECT date from events;
